@@ -1,0 +1,89 @@
+{
+    "lastYearOfPurch": 2000,
+    "lastYearOfSales": 1980,
+    "brands": {
+        "all": [
+            {
+                "id": "seat",
+                "image": "https://seat.png",
+                "imageAlt": "seat, seat icon",
+                "text": "Seat",
+                "value": "seat",
+                "title": "Toooltip"
+            }
+        ],
+        "popular": [
+            {
+                "id": "seat",
+                "image": "https://seat.png",
+                "imageAlt": "seat, seat icon",
+                "text": "Seat",
+                "value": "seat",
+                "title": "Toooltip"
+            }
+        ]
+    },
+    "price": {
+        "min": 95000,
+        "max": 950000,
+        "distance": 100000
+    },
+    "vehicles": [
+        {
+            "id": "23232",
+            "images": [
+                {
+                    "alt": "image description",
+                    "url": "https:asda"
+                }
+            ],
+            "title": "Slider title",
+            "type": "chosen",
+            "color": "gray",
+            "discountPrice": 450000,
+            "fuel": "gasoline",
+            "hasCertificate": true,
+            "km": 95000,
+            "location": "Bursa, Osmangazi",
+            "maturityCount": 48,
+            "maturityPriceOfMounth": 4500,
+            "onlyMembers": false,
+            "price": 100000,
+            "tags": [
+                "contactless",
+                "discount"
+            ],
+            "year": 1995
+        }
+    ],
+  
+    "products": [
+        {
+            "id": "product",
+            "background": "https://url",
+            "backgroundAlt": "asd,sad asd ,as dsas, dadas,",
+            "title": "Otokoç Ürün"
+        }
+    ],
+    "slider": [
+        {
+            "backgroundType": "image",
+            "id": "1",
+            "background": "https:url",
+            "backgroundAlt": "description",
+            "description": "alttaki text",
+            "image": "https:ExtraImage",
+            "imageAlt": "image desc",
+            "link": "https://www.otokoc.com.tr/products/details/2",
+            "title": "title"
+        }
+    ],
+    "vehicleBodyTypes": [
+        {
+            "id": "sedan",
+            "icon": "svgUrl",
+            "title": "title",
+            "value": "string"
+        }
+    ]
+}
